@@ -1,2 +1,6 @@
+# .gitignore
+# Ignore environment variable files
 .env
+
+# Ignore photos directory
 photos/
